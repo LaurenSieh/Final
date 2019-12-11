@@ -1,0 +1,32 @@
+body{
+    background-color: forestgreen;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    font-weight: 700;
+    font-size: 25px;
+    color: black;
+}
+a:nth-of-type(1){
+    position: fixed;
+    top:25vh;
+    left: 5vw;
+}
+a:nth-of-type(2){
+    position: fixed;
+    top: 25vh;
+    left: 35vw;
+}
+a:nth-of-type(3){
+    position: fixed;
+    top: 25vh;
+    right: 37vw;
+}
+a:nth-of-type(4){
+    position: fixed;
+    top: 25vh;
+    right: 5vw;
+}
